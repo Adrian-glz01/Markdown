@@ -15,3 +15,11 @@ int main() {
 }
 
 ```
+
+**Añadiremos una lista de tarea**
+
+- [x] Tarea 1 del tutorial realizada:Añadir una cabecera
+- [x] Tarea 2 del tutorial realizada:Añadir una imagen
+- [x] Tarea 3 del tutorial realizada:Añadir código
+- [ ] Tarea 4 del tutorial en proceso: Realizar una lista
+- [ ] Tarea 5 sin finalizar 
